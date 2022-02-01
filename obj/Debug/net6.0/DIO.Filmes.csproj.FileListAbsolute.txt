@@ -1,0 +1,15 @@
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.exe
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.deps.json
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.runtimeconfig.json
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.dll
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\ref\DIO.Filmes.dll
+G:\Workspace\DIO\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.pdb
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.csproj.AssemblyReference.cache
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.AssemblyInfoInputs.cache
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.AssemblyInfo.cs
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.csproj.CoreCompileInputs.cache
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.dll
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\ref\DIO.Filmes.dll
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.pdb
+G:\Workspace\DIO\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.genruntimeconfig.cache
